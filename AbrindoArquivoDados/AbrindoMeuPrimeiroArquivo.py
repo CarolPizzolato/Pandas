@@ -1,3 +1,4 @@
+'''Abrindo o arquivo para teste'''
 import pandas as pd
 import pandasgui as gui
 try:
